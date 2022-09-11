@@ -20,7 +20,7 @@ cd
 cd sin
 ls ( L kecil )
 git pull
-python sin.py
+python son.py
 
 
 
