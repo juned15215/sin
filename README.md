@@ -12,7 +12,7 @@ pip install --upgrade pip
 git clone https://github.com/juned15215/sin
 ls 
 cd sin
-python sin.py
+python son.py
 ```
 ## Cara Update
 ```php
