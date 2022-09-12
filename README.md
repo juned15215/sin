@@ -1,4 +1,4 @@
-# Instalation
+hi# Instalation
 Download apk Termuxnya disini biar ngga eror🌟
 [Klik Disini](https://f-droid.org/repo/com.termux_117.apk)👈
 ```bash
@@ -12,7 +12,7 @@ pip install --upgrade pip
 git clone https://github.com/juned15215/sin
 ls 
 cd sin
-python son.py
+python berak.py
 ```
 ## Cara Update
 ```php
@@ -20,7 +20,7 @@ cd
 cd sin
 ls ( L kecil )
 git pull
-python son.py
+python berak.py
 
 
 
